@@ -30,6 +30,13 @@ This repository will tell you how Navicat offline activation works.
    navicat-patcher.exe "C:\Program Files\PremiumSoft\Navicat Premium 12"
    ```
    
+   __Example: (in bash)__ 
+
+   ```
+   wine ./navicat-patcher.exe "/home/user/navicat/Navicat"
+   ```
+   
+   
    It has been tested on __Navicat Premium 12.1.12 Simplified Chinese version__. The following is an example of output.
 
    ```
